@@ -32,8 +32,8 @@ date_format = "January 2006"
   company_url = ""
   location = "Ithaca, NY"
   date_start = "2019-08-01"
-  date_end = "2019-12-31"
-  description = "Teaching assistant for large undergraduate course on the economics of risky health behaviors (Prof. John Cawley)"
+  date_end = ""
+  description = "Teaching assistant for large undergraduate courses on the economics of risky health behaviors (Prof. John Cawley) and Public Economics (Prof. Pauline Leung)"
 
 
 [[experience]]
@@ -42,7 +42,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Ithaca, NY"
   date_start = "2017-05-01"
-  date_end = ""
+  date_end = "2020-08-15"
   description = "Research topics have included collecting and analyzing data on all federal place-based funding initiatives over the last 30 years; understanding the union wage premium over time as it relates to the skill composition of occupations and the composition of workers in the union vs non-union sectors; revisiting monopsony power."
 
 [[experience]]

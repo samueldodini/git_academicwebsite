@@ -8,6 +8,11 @@
   url = "#about"
   weight = 10
 
+# [[main]]
+ #   name = "Job Market Paper"
+  #  url = "files/Dodini_JMP_pest_control.pdf"
+   # weight = 60
+    
 #[[main]]
  # name = "Posts"
   #url = "#posts"

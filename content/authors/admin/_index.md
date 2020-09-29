@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include the economics of labor market institutions, worker skill development, education, public finance, and urban economics.
+bio: My broad research interests include the economics of labor markets, incorporating insights from behavioral economics, occupational licensing, monopsony power, education, public finance, and urban economics.
 education:
   courses:
   - course: PhD in Policy Analysis and Management
@@ -15,10 +15,9 @@ education:
     year: 2013
 email: "snd46@cornell.edu"
 interests:
-- Labor economics, institutions and worker productivity
-- Education and skill development
-- Public finance
-- Urban economics
+- Labor economics
+- Public economics
+- Urban and housing economics
 name: Samuel Dodini
 organizations:
 - name: Cornell University
@@ -43,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate at Cornell University in the Department of Policy Analysis and Management and a Visiting Scholar at the Federal Reserve Board. My research focuses on applied work in the economics of labor market institutions and worker compensation, education and skill development, public finance, and urban economics. I also have research that focuses on applied demography and consumer finance. Before coming to Cornell, I was a Senior Research Assistant at the Federal Reserve Board Consumer and Community Development Research section.
+I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being as well as the effects of place-based development and housing policies. Before coming to Cornell, I was a Senior Research Assistant at the Federal Reserve Board Consumer and Community Development Research section.
 
 

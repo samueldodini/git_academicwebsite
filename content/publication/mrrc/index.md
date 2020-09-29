@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Michigan Retirement Research Center Research Paper No. 2016-351, R&R at Journal of Consumer Affairs'
+publication: 'Forthcoming at Journal of Consumer Affairs'
 publication_short: "mrrc"
 #publication_types: Working Paper
 #- "2"
@@ -30,7 +30,7 @@ summary: We explore how seniors' debt balances and credit worthiness respond to 
 title: "How Home Equity Extraction and Reverse Mortgages Affect the Credit Outcomes of Senior Households"
 #url_code: ""
 #url_dataset: ""
-#url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886524
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886524
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
