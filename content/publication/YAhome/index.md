@@ -14,7 +14,7 @@ image:
 
 #projects: []
 publication: 'Finance and Economics Discussion Series'
-publication_short: "FEDS"
+#publication_short: "FEDS"
 #publication_types:
 #- "2"
 publishDate: "2015-09-01T00:00:00Z"

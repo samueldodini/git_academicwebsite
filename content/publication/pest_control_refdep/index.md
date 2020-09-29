@@ -11,7 +11,7 @@ image:
 
 #projects: []
 publication: 'Working Paper'
-publication_short: "pest_control_refdep"
+#publication_short: "pest_control_refdep"
 #publication_types:
 #- "2"
 publishDate: "2020-09-29T00:00:00Z"

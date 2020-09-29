@@ -33,7 +33,7 @@ image:
   
 projects: []
 publication: 'R&R at American Journal of Sociology'
-publication_short: "pb1"
+#publication_short: "pb1"
 #publication_types: Working Paper
 #- "2"
 publishDate: "2020-02-21T00:00:00Z"

@@ -19,7 +19,7 @@ image:
   preview_only: false
 projects: []
 publication: 'Forthcoming at Journal of Consumer Affairs'
-publication_short: "mrrc"
+#publication_short: "mrrc"
 #publication_types: Working Paper
 #- "2"
 publishDate: "2016-12-16T00:00:00Z"

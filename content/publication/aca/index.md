@@ -16,7 +16,7 @@ image:
 
 #projects: []
 publication: 'Working Paper'
-publication_short: "aca"
+#publication_short: "aca"
 #publication_types:
 #- "2"
 publishDate: "2020-09-21T00:00:00Z"

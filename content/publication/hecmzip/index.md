@@ -19,7 +19,7 @@ links:
   
 projects: []
 publication: 'Working Paper'
-publication_short: "hecmzip"
+#publication_short: "hecmzip"
 #publication_types: Working Paper
 #- "2"
 publishDate: "2019-05-20T00:00:00Z"
