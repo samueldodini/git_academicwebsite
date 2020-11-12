@@ -41,6 +41,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am on the 2020-2021 job market and will be available for interviews during the virtual AEA and EEA meetings.
 
 I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being as well as the effects of place-based development and housing policies. Before coming to Cornell, I was a Senior Research Assistant at the Federal Reserve Board Consumer and Community Development Research section.
 
