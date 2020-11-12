@@ -3,22 +3,24 @@ abstract: "The standard and reference-dependent models of labor supply make oppo
 
 authors:
 - admin
+
 date: "2020-11-12T00:00:00Z"
-featured: true
+doi: ""
+featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
+projects: []
 #links:
 #- name: Paper
 # url: https://samueldodini.com/files/Dodini_JMP_refdep_20_21.pdf
 
-#projects: []
 publication: 'Job Market Paper'
 #publication_short: "pest_control_refdep"
 #publication_types:
 #- "2"
-publishDate: "2020-09-29T00:00:00Z"
+publishDate: "2020-11-12T00:00:00Z"
 #slides: example
 summary: Workers exhibit reference-dependent labor supply around expectations. Their expectations are based upon optimizing long-run objectives at lump-sum bonuses paid by the firm.
 #tags:

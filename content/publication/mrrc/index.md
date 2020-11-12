@@ -6,7 +6,7 @@ authors:
 - Donald R. Haurin
 - admin
 - Maximilian D. Schmeiser
-date: "2016-12-16T00:00:00Z"
+date: "2020-10-16T00:00:00Z"
 doi: ""
 links:
 - name: Paper
@@ -22,7 +22,7 @@ publication: 'Journal of Consumer Affairs'
 #publication_short: "mrrc"
 #publication_types: Published
 #- "2"
-publishDate: "2016-12-16T00:00:00Z"
+publishDate: "2020-10-16T00:00:00Z"
 #slides: example
 summary: We explore how seniors' debt balances and credit worthiness respond to equity extraction through reverse mortgages and compare it to other home equity borrowing.
 #tags:

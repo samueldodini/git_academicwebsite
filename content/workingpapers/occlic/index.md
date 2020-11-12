@@ -3,7 +3,7 @@ abstract: Research on occupational licensing suggests that licenses reduce labor
 authors:
 - admin
 date: "2020-11-04T00:00:00Z"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""

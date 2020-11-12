@@ -6,7 +6,7 @@ authors:
 - Jenny Schuetz
 date: "2016-03-08T00:00:00Z"
 doi: "10.17016/FEDS.2016.021"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""

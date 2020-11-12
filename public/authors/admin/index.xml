@@ -41,10 +41,19 @@
     
     <item>
       <title>Monopsony, Skills, and Labor Market Concentration</title>
-      <link>/cepr.org/active/publications/discussion_papers/dp.phpdpno15412</link>
+      <link>/workingpapers/skillconcentration/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/cepr.org/active/publications/discussion_papers/dp.phpdpno15412</guid>
+      <guid>/workingpapers/skillconcentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Home Equity Extraction and Reverse Mortgages Affect the Credit Outcomes of Senior Households</title>
+      <link>/publication/mrrc/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mrrc/</guid>
       <description></description>
     </item>
     
@@ -102,15 +111,6 @@ rm Untitled.md
 &lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>How Home Equity Extraction and Reverse Mortgages Affect the Credit Outcomes of Senior Households</title>
-      <link>/publication/mrrc/</link>
-      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mrrc/</guid>
-      <description></description>
     </item>
     
     <item>

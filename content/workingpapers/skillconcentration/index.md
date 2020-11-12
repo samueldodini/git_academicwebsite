@@ -4,15 +4,15 @@ authors:
 - admin
 date: "2020-10-20T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-links:
-- name: Paper on CEPR
-url: cepr.org/active/publications/discussion_papers/dp.php?dpno=15412
+#links:
+#- name: Paper on CEPR
+#url: "cepr.org/active/publications/discussion_papers/dp.php?dpno=15412"
 
 #projects: []
 publication: 'Working Paper'
