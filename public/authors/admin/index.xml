@@ -7,53 +7,62 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
-    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Making and Breaking Reference-Dependent Preferences: Evidence from Door-to-Door Sales</title>
-      <link>/publication/pest_control_refdep/</link>
-      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Making Reference-Dependent Preferences: Evidence from Door-to-Door Sales (JMP)</title>
+      <link>/workingpapers/pest_control_refdep/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/pest_control_refdep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Occupational Licensing, Skills, and Labor Market Spillovers</title>
-      <link>/publication/occlic/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/occlic/</guid>
+      <guid>/workingpapers/pest_control_refdep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Insurance Subsidies, the Affordable Care Act, and Financial Stability</title>
-      <link>/publication/aca/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <link>/workingpapers/aca/</link>
+      <pubDate>Thu, 05 Nov 2020 00:01:00 +0000</pubDate>
       
-      <guid>/publication/aca/</guid>
+      <guid>/workingpapers/aca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occupational Licensing, Skills, and Labor Market Spillovers</title>
+      <link>/workingpapers/occlic/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/workingpapers/occlic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monopsony, Skills, and Labor Market Concentration</title>
+      <link>/cepr.org/active/publications/discussion_papers/dp.phpdpno15412</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cepr.org/active/publications/discussion_papers/dp.phpdpno15412</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Place-Based Turn in Federal Policy, 1990-2015</title>
-      <link>/publication/pb1/</link>
+      <link>/workingpapers/pb1/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/pb1/</guid>
+      <guid>/workingpapers/pb1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seniors&#39; Home Equity Extraction: Credit Constraints and Borrowing Channels</title>
-      <link>/publication/hecmzip/</link>
+      <link>/workingpapers/hecmzip/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/hecmzip/</guid>
+      <guid>/workingpapers/hecmzip/</guid>
       <description></description>
     </item>
     
@@ -106,10 +115,10 @@ rm Untitled.md
     
     <item>
       <title>Findings on Relative Deprivation from the Survey of Household Economics and Decisionmaking</title>
-      <link>/publication/fedsnoterd/</link>
+      <link>/nonpeerreviewed/fedsnoterd/</link>
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fedsnoterd/</guid>
+      <guid>/nonpeerreviewed/fedsnoterd/</guid>
       <description></description>
     </item>
     
@@ -323,10 +332,10 @@ rm Untitled.md
     
     <item>
       <title>What are the Perceived Barriers to Homeownership for Young Adults?</title>
-      <link>/publication/yahome/</link>
+      <link>/workingpapers/yahome/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/yahome/</guid>
+      <guid>/workingpapers/yahome/</guid>
       <description></description>
     </item>
     

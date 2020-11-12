@@ -22,11 +22,11 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Working Papers</title>
+      <link>/workingpapers/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/workingpapers/</guid>
       <description></description>
     </item>
     
@@ -56,6 +56,24 @@
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non Peer Reviewed Publications and Policy Briefs</title>
+      <link>/nonpeerreviewed/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/nonpeerreviewed/</guid>
+      <description></description>
     </item>
     
     <item>
