@@ -38,10 +38,10 @@
   url = "#workingpapers"
   weight = 60
   
-[[main]]
-  name = "Non Peer Reviewed and Policy Briefs"
-  url = "#nonpeerreviewed"
-  weight = 70
+#[[main]]
+ # name = "Non Peer Reviewed and Policy Briefs"
+  #url = "#nonpeerreviewed"
+  #weight = 70
   
 #[[main]]
 #  name = "Courses"
@@ -51,13 +51,13 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
  [[main]]
-    name = "CV"
-    url = "files/Dodini_cv.pdf"
+    name = "Job Market Paper"
+    url = "files/Dodini_JMP_refdep_20_21.pdf"
     weight = 80
     
  [[main]]
-    name = "Job Market Paper"
-    url = "files/Dodini_JMP_refdep_20_21.pdf"
+    name = "CV"
+    url = "files/Dodini_cv.pdf"
     weight = 90
 
 [[main]]
