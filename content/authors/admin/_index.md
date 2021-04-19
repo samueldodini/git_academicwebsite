@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Policy Analysis and Management
     institution: Cornell University
-    year: Expected 2021
+    year: 2021
   - course: MS in Policy Analysis and Management
     institution: Cornell University
     year: 2019
