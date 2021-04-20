@@ -3,8 +3,8 @@ abstract: This paper measures the effects of subsidies in the Affordable Care Ac
 authors:
 - admin
 
-date: "2020-11-05T00:01:00Z"
-featured: false
+date: "2021-04-19T00:01:00Z"
+featured: true
 image:
   caption: ""
   focal_point: ""
@@ -18,7 +18,7 @@ publication: 'Working Paper'
 #publication_short: "aca"
 #publication_types:
 #- "2"
-publishDate: "2020-11-05T00:00:00Z"
+publishDate: "2021-04-19T00:00:00Z"
 #slides: example
 summary: The tax credits in the Affordable Care Act substantially reduce bankruptcy, and severely delinquent debt. Welfare gains for protection against medical debt accounts for 15% of program costs, while indirect transfers to creditors, lenders, and hospitals account for almost 2/3 of the costs.
 #tags:
