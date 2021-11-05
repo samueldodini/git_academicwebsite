@@ -18,6 +18,15 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral Fellow in Labor Economics"
+  company = "FAIR Centre at (NHH) Norwegian School of Economics"
+  company_url = ""
+  location = "Bergen, Norway"
+  date_start = "2021-08-15"
+  date_end = ""
+  description = ""
+  
+[[experience]]
   title = "Visiting Scholar"
   company = "Board of Governors of the Federal Reserve System"
   company_url = ""
@@ -32,7 +41,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Ithaca, NY"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2021-01-01"
   description = "Teaching assistant for large undergraduate courses on the economics of risky health behaviors (Prof. John Cawley) and Public Economics (Prof. Pauline Leung)"
 
 

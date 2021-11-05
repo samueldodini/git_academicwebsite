@@ -50,10 +50,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
- [[main]]
-    name = "Job Market Paper"
-    url = "files/Dodini_JMP_refdep_20_21.pdf"
-    weight = 80
     
  [[main]]
     name = "CV"
