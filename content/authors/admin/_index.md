@@ -13,20 +13,20 @@ education:
   - course: BA in Economics
     institution: Brigham Young University
     year: 2013
-email: "snd46@cornell.edu"
+email: "samuel.dodini@nhh.no"
 interests:
 - Labor economics
 - Public economics
 - Urban and housing economics
 name: Samuel Dodini
 organizations:
-- name: Cornell University
-  url: "https://www.human.cornell.edu/people/snd46"
-role: PhD Candidate
+- name: FAIR Centre at (NHH) Norwegian School of Economics
+  url: "https://www.nhh.no/en/employees/faculty/samuel-nathan-dodini/"
+role: Postdoctoral Fellow in Labor Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:snd46@cornell.edu # '#contact'
+  link: mailto:samuel.dodini@nhh.no # '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/microsamonomics
@@ -41,8 +41,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Beginning in the Fall of 2021, I will be a Postdoctoral Fellow in Labor Economics at NHH Norwegian School of Economics.
 
-I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being as well as the effects of place-based development and housing policies. Before attending Cornell, I was a Senior Research Assistant at the Federal Reserve Board Consumer and Community Development Research section.
-
+I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.
 
