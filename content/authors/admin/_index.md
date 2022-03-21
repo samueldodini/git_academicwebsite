@@ -42,5 +42,5 @@ user_groups:
 - Visitors
 ---
 
-I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.
+I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being, the effects of SNAP work requirements on household finance, as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.
 

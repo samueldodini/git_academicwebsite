@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Tranfaglia on Samuel Dodini</title>
+    <link>/authors/anna-tranfaglia/</link>
+    <description>Recent content in Anna Tranfaglia on Samuel Dodini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year}</copyright>
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/anna-tranfaglia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Financial Repercussions of SNAP Work Requirements</title>
+      <link>/workingpapers/snap_work/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/workingpapers/snap_work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

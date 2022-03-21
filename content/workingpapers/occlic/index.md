@@ -1,8 +1,8 @@
 ---
-abstract: Research on occupational licensing suggests that licenses reduce labor supply and generate a wage premium. Rather than effects on one’s own occupation, I test for the presence of wage spillovers onto other occupations with similar latent skills. Using data from O*NET, I cluster occupations together using Hierarchical Agglomerative Clustering. Leveraging cross-state variation in individual licensing status from the CPS, and using a border discontinuity design on individual ACS microdata, I estimate the labor market spillovers of licenses onto other occupations. I find that a 10 percentage point increase in licensure rates in related occupations reduces individual earnings in one’s own occupation by approximately 2-2.5%. These effects are particularly strong for women, Non-Hispanic black, and foreign-born Hispanic workers. Licensing spillovers shift the composition of workers in related occupations. Contrary to a standard labor supply prediction, overall employment falls in related occupations. Falling earnings combined with falling employment are more in line with the predictions of a monopsony model where licensing reduces the feasibility of outside options and increases search costs.
+abstract: This paper measures the effects of labor regulations on the structure of earnings and employment in the context of occupational licensing. Using a state border match design, I estimate the labor market spillovers of licensing on other occupations with similar skills, which I classify using hierarchical clustering techniques on skills data from O*NET. I find evidence of negative earnings and employment spillovers, with the largest earnings effects concentrated among women, black, and foreign-born Hispanic workers. These effects lead to greater earnings inequality. The results are consistent with a monopsony model where licensing increases search costs and reduces workers' outside options.
 authors:
 - admin
-date: "2020-11-04T00:00:00Z"
+date: "2022-02-04T00:00:00Z"
 featured: false
 image:
   caption: ''
@@ -10,22 +10,22 @@ image:
   preview_only: false
 #links:
 #- name: Paper
-# url: https://samueldodini.com/files/Dodini_occupation_licensing_9_21_2020.pdf
+# url: https://samueldodini.com/files/Dodini_occupation_licensing_2_2022.pdf
 
 #projects: []
 publication: 'Working Paper'
 #publication_short: "occlic"
 #publication_types:
 #- "2"
-publishDate: "2020-11-04T00:00:00Z"
+publishDate: "2022-02-04T00:00:00Z"
 #slides: example
 summary: Occupational licensing has negative wage and labor supply effects on occupations that use similar latent skills consistent with a monopsony model. The negative effects are particularly strong for women, black workers, and Hispanic workers.
 #tags:
 #- Source Themes
-title: "Occupational Licensing, Skills, and Labor Market Spillovers"
+title: "The Spillover Effects of Labor Regulations on the Structure of Earnings and Employment: Evidence from Occupational Licensing"
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://samueldodini.com/files/Dodini_occupation_licensing_9_21_2020.pdf
+url_pdf: https://samueldodini.com/files/Dodini_occupation_licensing_2_2022.pdf
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
