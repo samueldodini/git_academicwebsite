@@ -30,7 +30,7 @@ summary: "SNAP work requirements for Able-Bodied Adults Without Dependents (ABAW
 title: "Financial Repercussions of SNAP Work Requirements"
 #url_code: ""
 #url_dataset: ""
-#url_pdf: https://samueldodini.com/files/Dodini_occupation_licensing_2_2022.pdf
+url_pdf: https://www.federalreserve.gov/econres/feds/files/2022030pap.pdf
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
