@@ -34,12 +34,22 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-12T00:01:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-12T00:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aca/</loc>
+    <lastmod>2022-10-12T00:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-10-12T00:01:00+00:00</lastmod>
   </url>
   
   <url>
@@ -119,11 +129,6 @@
   
   <url>
     <loc>/authors/maximilian-d.-schmeiser/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
