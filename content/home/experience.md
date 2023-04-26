@@ -32,7 +32,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Washington, DC"
   date_start = "2019-06-26"
-  date_end = ""
+  date_end = "2023-04-01"
   description = ""
 
 [[experience]]

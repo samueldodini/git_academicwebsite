@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,30 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 12 Oct 2022 00:01:00 +0000</pubDate>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being, the effects of SNAP work requirements on household finance, as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.&lt;/p&gt;
+      <description>&lt;p&gt;I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have various work on the interactions between labor unions and firms, workers, and the public transfer system. My other work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being, the effects of SNAP work requirements on household finance, as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.&lt;/p&gt;
+&lt;p&gt;I will be on the job market during the 2023-2024 market season.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Alexander Willén</title>
+      <link>/authors/alexander-willen/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alexander-willen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katrine Løken</title>
+      <link>/authors/katrine-l%C3%B8ken/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/katrine-l%C3%B8ken/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,15 +56,6 @@
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/jeff-larrimore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexander Willen</title>
-      <link>/authors/alexander-willen/</link>
-      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/alexander-willen/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My broad research interests include the economics of labor markets, incorporating insights from behavioral economics, occupational licensing, monopsony power, education, public finance, and urban economics.
+bio: My broad research interests include empirical explorations of the economics of labor markets, incorporating insights from behavioral economics, occupational licensing, monopsony power, education, public finance, and urban economics.
 education:
   courses:
   - course: PhD in Policy Analysis and Management
@@ -20,7 +20,7 @@ interests:
 - Urban and housing economics
 name: Samuel Dodini
 organizations:
-- name: FAIR Centre at (NHH) Norwegian School of Economics
+- name: FAIR Centre, Department of Economics, (NHH) Norwegian School of Economics
   url: "https://www.nhh.no/en/employees/faculty/samuel-nathan-dodini/"
 role: Postdoctoral Fellow in Labor Economics
 social:
@@ -42,5 +42,7 @@ user_groups:
 - Visitors
 ---
 
-I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have work on the importance of worker skills and labor unions. My work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being, the effects of SNAP work requirements on household finance, as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.
+I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have various work on the interactions between labor unions and firms, workers, and the public transfer system. My other work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being, the effects of SNAP work requirements on household finance, as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.
+
+I will be on the job market during the 2023-2024 market season.
 
