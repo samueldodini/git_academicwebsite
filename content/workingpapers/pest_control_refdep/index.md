@@ -14,7 +14,7 @@ image:
 projects: []
 #links:
 #- name: Paper
-# url: https://samueldodini.com/files/Dodini_refdep_10_2021.pdf
+# url: https://samueldodini.com/files/Dodini_refdep_sales_6_2023.pdf
 
 publication: ''
 #publication_short: "pest_control_refdep"
