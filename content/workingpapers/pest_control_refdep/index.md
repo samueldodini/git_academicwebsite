@@ -3,7 +3,7 @@ abstract: "People often set goals that they fail to meet. One intuitive way of a
 
 authors:
 - admin
-@@ -20,15 +20,15 @@ publication: ''
+
 date: "2023-06-01T00:00:00Z"
 doi: ""
 featured: false
