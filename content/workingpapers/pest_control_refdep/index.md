@@ -4,7 +4,7 @@ abstract: "People often set goals that they fail to meet. One intuitive way of a
 authors:
 - admin
 
-date: "2021-10-01T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -22,7 +22,7 @@ publication: ''
 #- "2"
 publishDate: "2023-06-01T00:00:00Z"
 #slides: example
-summary: Updated, 2023. Workers exhibit reference-dependent labor supply around expectations. Their expectations are based upon optimizing long-run objectives at lump-sum bonuses paid by the firm.
+summary: Workers exhibit reference-dependent labor supply around expectations. Their expectations are based upon optimizing long-run objectives at lump-sum bonuses paid by the firm.
 #tags:
 #- Source Themes
 title: "Making Reference-Dependent Preferences: Evidence from Door-to-Door Sales"
