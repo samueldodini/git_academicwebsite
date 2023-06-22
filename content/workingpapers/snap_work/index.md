@@ -1,5 +1,5 @@
 ---
-abstract: "This paper considers the credit response of individuals after the implementation of new work requirements for Supplemental Nutrition Assistance (SNAP) benefits using a large nationally representative sample of credit records. It does so by exploiting county-level variation in the implementation of work requirements after the Great Recession in a difference-in-differences design. We find that the implementation of new SNAP work requirements leads more people to seek out new credit and leads to an increase in credit account openings. New work requirements also result in an increase in total outstanding balances on bank and retail card accounts and increase the number of borrowers that are past due on these accounts. These findings suggest that some individuals are turning to credit and debt products to cover expenses after losing eligibility for SNAP benefits."
+abstract: "This paper considers individual-level credit responses after the implementation of work requirements for SNAP benefits. It does so by exploiting county-level variation in the reintroduction of work requirements after the Great Recession. We find that new SNAP work requirements lead more people to seek out new credit and lead to an increase in credit account openings. New work requirements also result in an increase in total outstanding credit balances as well as an increase in past due balances. These findings suggest that individuals are turning to credit and debt products to cover expenses after losing SNAP eligibility."
 
 authors:
 - admin
@@ -30,7 +30,7 @@ summary: "SNAP work requirements for Able-Bodied Adults Without Dependents (ABAW
 title: "Financial Repercussions of SNAP Work Requirements"
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://www.federalreserve.gov/econres/feds/files/2022030pap.pdf
+url_pdf: "https://samueldodini.com/files/Dodini_Larrimore_Tranfaglia_SNAP_work_4_2023.pdf"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
