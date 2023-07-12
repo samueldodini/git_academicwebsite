@@ -3,7 +3,7 @@ abstract: This paper measures how labor regulations affect the structure of earn
 authors:
 - admin
 date: "2023-06-04T00:00:00Z"
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
