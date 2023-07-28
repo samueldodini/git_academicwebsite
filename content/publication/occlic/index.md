@@ -10,7 +10,7 @@ image:
   preview_only: false
 #links:
 #- name: Paper
-# url: https://samueldodini.com/files/Dodini_occupation_licensing_6_2023.pdf
+# url: https://samueldodini.com/files/Dodini_occ_licensing_7_2023_JPubE_final.pdf
 
 #projects: []
 publication: 'Journal of Public Economics'
@@ -25,7 +25,7 @@ summary: Occupational licensing has negative wage and labor supply effects on oc
 title: "The Spillover Effects of Labor Regulations on the Structure of Earnings and Employment: Evidence from Occupational Licensing"
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://samueldodini.com/files/Dodini_occupation_licensing_6_2023.pdf
+url_pdf: https://samueldodini.com/files/Dodini_occ_licensing_7_2023_JPubE_final.pdf
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
