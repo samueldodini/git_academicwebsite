@@ -17,7 +17,9 @@ email: "samuel.dodini@nhh.no"
 interests:
 - Labor economics
 - Public economics
+- Behavioral economics
 - Urban and housing economics
+- Education
 name: Samuel Dodini
 organizations:
 - name: FAIR Centre, Department of Economics, (NHH) Norwegian School of Economics
@@ -42,7 +44,7 @@ user_groups:
 - Visitors
 ---
 
-I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have various work on the interactions between labor unions and firms, workers, and the public transfer system. My other work in public economics focuses on the effects of tax credits to purchase health insurance on financial well-being, the effects of SNAP work requirements on household finance, as well as the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.
+I am an applied labor and public economist with broad interests. My current work in labor incorporates insights from behavioral economics and also examines the effects of occupational licensing and monopsony power. I also have various work on the interactions between labor unions and firms, workers, and the public transfer system. My other work in public economics focuses on the effects of SNAP work requirements on household finance and the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University.
 
 I will be on the job market during the 2023-2024 market season.
 
