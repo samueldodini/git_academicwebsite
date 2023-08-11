@@ -22,26 +22,32 @@
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 30
-
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 40
   
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Working Papers"
   url = "#workingpapers"
-  weight = 60
+  weight = 50
+
+    
+ [[main]]
+    name = "CV"
+    url = "files/Dodini_cv.pdf"
+    weight = 60
+    
+  [[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 70
   
 #[[main]]
  # name = "Non Peer Reviewed and Policy Briefs"
   #url = "#nonpeerreviewed"
-  #weight = 70
+  #weight = 80
   
 #[[main]]
 #  name = "Courses"
@@ -50,11 +56,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
-    
- [[main]]
-    name = "CV"
-    url = "files/Dodini_cv.pdf"
-    weight = 90
 
 [[main]]
   name = "Contact"
