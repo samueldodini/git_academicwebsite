@@ -22,13 +22,9 @@ interests:
 - Education
 name: Samuel Dodini
 organizations:
-- name: FAIR Centre, Department of Economics, (NHH) Norwegian School of Economics
+- name: FAIR Centre, Department of Economics, (NHH) Norwegian School of Economics; CESifo
   url: "https://www.nhh.no/en/employees/faculty/samuel-nathan-dodini/"
 role: Postdoctoral Fellow in Labor Economics
-organizations:
-- name: CESifo
-  url: "https://www.cesifo.org/en"
-role: Affiliate
 social:
 - icon: envelope
   icon_pack: fas
