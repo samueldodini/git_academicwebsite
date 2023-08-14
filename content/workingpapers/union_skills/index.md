@@ -27,7 +27,7 @@ publishDate: "2021-01-12T00:00:00Z"
 summary: Union membership has become relatively more focused on non-routine, cognitive skills over time in the US. We contextualize this in a Roy model of unionization in the US.
 #tags:
 #- Source Themes
-title: "The Changing Skill Content of Private Sector Union Coverage"
+title: "The Changing Skill Content of Private Sector Union Coverage | R&R at ILR Review"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/DLW_union_skills.pdf"
