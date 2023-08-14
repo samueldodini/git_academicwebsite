@@ -22,7 +22,7 @@ publishDate: "2023-07-28T00:00:00Z"
 summary: "Occupational licensing has negative wage and labor supply effects on other occupations. The negative effects are particularly strong for women, black workers, and Hispanic workers."
 #tags:
 #- Source Themes
-title: "The Spillover Effects of Labor Regulations on the Structure of Earnings and Employment: Evidence from Occupational Licensing -- Journal of Public Economics"
+title: "The Spillover Effects of Labor Regulations on the Structure of Earnings and Employment: Evidence from Occupational Licensing | Journal of Public Economics"
 #url_code: ""
 #url_dataset: ""
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0047272723001299/pdfft?md5=41dde736e3ce867f389410672278c948&pid=1-s2.0-S0047272723001299-main.pdf
