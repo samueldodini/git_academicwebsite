@@ -41,7 +41,7 @@ publishDate: "2020-02-21T00:00:00Z"
 summary: The federal government spent over $360 billion from 1990-2015 on place-based policies. Areas with more disadvantage, more segregation, and more non-profit capacity received more of these funds.
 #tags:
 #- Source Themes
-title: "The Place-Based Turn in Federal Policy, 1990-2015"
+title: "The Place-Based Turn in Federal Policy, 1990-2015 | R&R at Social Forces"
 #url_code: ""
 #url_dataset: ""
 #url_pdf: ""
