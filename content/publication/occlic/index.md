@@ -19,7 +19,7 @@ publication: 'Journal of Public Economics'
 #- "2"
 publishDate: "2023-07-28T00:00:00Z"
 #slides: example
-summary: Journal of Public Economics. Synopsis: Occupational licensing has negative wage and labor supply effects on other occupations. The negative effects are particularly strong for women, black workers, and Hispanic workers.
+summary: Journal of Public Economics. Synopsis - Occupational licensing has negative wage and labor supply effects on other occupations. The negative effects are particularly strong for women, black workers, and Hispanic workers.
 #tags:
 #- Source Themes
 title: "The Spillover Effects of Labor Regulations on the Structure of Earnings and Employment: Evidence from Occupational Licensing"
