@@ -24,10 +24,10 @@ publication: 'Journal of Consumer Affairs'
 #- "2"
 publishDate: "2020-10-16T00:00:00Z"
 #slides: example
-summary: "Journal of Consumer Affaris. We explore how seniors' debt balances and credit worthiness respond to equity extraction through reverse mortgages and compare it to other home equity borrowing."
+summary: "We explore how seniors' debt balances and credit worthiness respond to equity extraction through reverse mortgages and compare it to other home equity borrowing."
 #tags:
 #- Source Themes
-title: "How Home Equity Extraction and Reverse Mortgages Affect the Credit Outcomes of Senior Households"
+title: "How Home Equity Extraction and Reverse Mortgages Affect the Credit Outcomes of Senior Households -- Journal of Consumer Affairs"
 #url_code: ""
 #url_dataset: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/joca.12331
