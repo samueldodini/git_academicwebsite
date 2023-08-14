@@ -27,7 +27,7 @@ publishDate: "2022-01-29T00:00:00Z"
 summary: "SNAP work requirements for Able-Bodied Adults Without Dependents (ABAWDs) significantly increased credit seeking, credit balances, and past due credit cards."
 #tags:
 #- Source Themes
-title: "Financial Repercussions of SNAP Work Requirements"
+title: "Financial Repercussions of SNAP Work Requirements | R&R at Journal of Public Economics"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/Dodini_Larrimore_Tranfaglia_SNAP_work_4_2023.pdf"
