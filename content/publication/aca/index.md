@@ -20,10 +20,10 @@ publication: 'Journal of Policy Analysis and Management'
 #- "1"
 publishDate: "2022-10-12T00:00:00Z"
 #slides: example
-summary: "Journal of Policy Analysis and Management. Synopsis - The tax credits in the Affordable Care Act substantially reduce bankruptcy, and severely delinquent debt. Welfare gains for protection against medical debt accounts for 16-21% of program costs."
+summary: "The tax credits in the Affordable Care Act substantially reduce bankruptcy, and severely delinquent debt. Welfare gains for protection against medical debt accounts for 16-21% of program costs."
 #tags:
 #- Source Themes
-title: "Insurance Subsidies, the Affordable Care Act, and Financial Stability"
+title: "Insurance Subsidies, the Affordable Care Act, and Financial Stability -- Journal of Policy Analysis and Management"
 #url_code: ""
 #url_dataset: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/pam.22418
