@@ -14,7 +14,7 @@ image:
 # url: https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22418
 
 #projects: []
-publication: 'Publication'
+publication: 'Journal of Policy Analysis and Management'
 #publication_short: "aca"
 #publication_types:
 #- "1"
