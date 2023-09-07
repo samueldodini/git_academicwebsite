@@ -6,7 +6,7 @@ authors:
 - Katrine Løken
 - Alexander Willén
 
-date: "2022-12-31T00:00:00Z"
+date: "2023-4-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ image:
 projects: []
 #links:
 #- name: Paper
-# url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4279300
+# url: http://samueldodini.com/files/Dodini_Loken_Willen_competition_firm_communities_4_2023.pdf
 
 publication: ''
 #publication_short: "competition_firm_community"
@@ -27,10 +27,10 @@ publishDate: "2022-12-31T00:00:00Z"
 summary: Labor market competition leads to higher real worker earnings, lower firm productivity, firm closer, greater inequality, population loss, and changes in political sentiments in communities affected by it.
 #tags:
 #- Source Themes
-title: "The Effect of Labor Market Competition on Firms, Workers, and Communities"
+title: "Labor Market Competition and Its Effect on Firms and Local Communities"
 #url_code: ""
 #url_dataset: ""
-url_pdf: "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4279300_code1391513.pdf?abstractid=4279300&mirid=1&type=2"
+url_pdf: "http://samueldodini.com/files/Dodini_Loken_Willen_competition_firm_communities_4_2023.pdf"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
