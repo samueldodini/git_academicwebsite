@@ -38,16 +38,21 @@
     name = "CV"
     url = "files/Dodini_cv.pdf"
     weight = 60
+
+  [[main]]
+    name = "Job Market Paper"
+    url = "files/Dodini_JMP_2023_2024.pdf"
+    weight = 70
     
   #[[main]]
   #name = "Experience"
   #url = "#experience"
-  #weight = 70
+  #weight = 80
   
 #[[main]]
  # name = "Non Peer Reviewed and Policy Briefs"
   #url = "#nonpeerreviewed"
-  #weight = 80
+  #weight = 90
   
 #[[main]]
 #  name = "Courses"
