@@ -6,7 +6,7 @@ authors:
 - Kjell Salvanes
 - Alexander Willen
 
-date: "2023-01-20T00:00:00Z"
+date: "2023-11-12T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -23,7 +23,7 @@ publication: 'Working Paper'
 #publication_short: "skillconcentration"
 #publication_types:
 #- "2"
-publishDate: "2023-01-20T00:00:00Z"
+publishDate: "2023-11-12T00:00:00Z"
 #slides: example
 summary: Revisions requested at The Economic Journal. Labor market concentration within task clusters is lower than other measures. Higher concentration leads to lower wages, with heterogeneity in effects. 
 #tags:
