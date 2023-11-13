@@ -6,7 +6,7 @@ authors:
 - Jeff Larrimore
 - Anna Tranfaglia
 
-date: "2022-01-29T00:00:00Z"
+date: "2023-11-09T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -22,7 +22,7 @@ publication: 'Working Paper'
 #publication_short: "snap_work"
 #publication_types:
 #- "2"
-publishDate: "2022-01-29T00:00:00Z"
+publishDate: "2023-11-09T00:00:00Z"
 #slides: example
 summary: "SNAP work requirements for Able-Bodied Adults Without Dependents (ABAWDs) significantly increased credit seeking, credit balances, and past due credit cards."
 #tags:
