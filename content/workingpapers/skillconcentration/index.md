@@ -28,7 +28,7 @@ publishDate: "2023-01-20T00:00:00Z"
 summary: Revisions requested at The Economic Journal. Labor market concentration within task clusters is lower than other measures. Higher concentration leads to lower wages, with heterogeneity in effects. 
 #tags:
 #- Source Themes
-title: "Monopsony, Job Tasks, and Labor Market Concentration | R&R at The Economic Journal"
+title: "Monopsony, Job Tasks, and Labor Market Concentration | ACCEPTED at The Economic Journal"
 #url_code: ""
 #url_dataset: ""
 url_pdf: https://www.nber.org/papers/w30823
