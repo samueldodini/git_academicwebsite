@@ -14,8 +14,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Paper
- url: https://www.sciencedirect.com/science/article/pii/S0047272723002165
+#- name: Paper
+ #url: "https://www.sciencedirect.com/science/article/pii/S0047272723002165"
 
 #projects: []
 publication: 'Journal of Public Economics'
@@ -30,7 +30,7 @@ summary: "SNAP work requirements for Able-Bodied Adults Without Dependents (ABAW
 title: "Financial Repercussions of SNAP Work Requirements | Journal of Public Economics"
 #url_code: ""
 #url_dataset: ""
-url_pdf: "https://samueldodini.com/files/Dodini_Larrimore_Tranfaglia_SNAP_work_4_2023.pdf"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0047272723002165"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
