@@ -15,10 +15,10 @@ image:
   preview_only: false
 #links:
 #- name: Paper
-# url: ""
+# url: "https://www.sciencedirect.com/science/article/pii/S0047272723002165"
 
 #projects: []
-publication: 'Working Paper'
+publication: 'Journal of Public Economics'
 #publication_short: "snap_work"
 #publication_types:
 #- "2"
@@ -27,7 +27,7 @@ publishDate: "2023-11-09T00:00:00Z"
 summary: "SNAP work requirements for Able-Bodied Adults Without Dependents (ABAWDs) significantly increased credit seeking, credit balances, and past due credit cards."
 #tags:
 #- Source Themes
-title: "Financial Repercussions of SNAP Work Requirements | ACCEPTED at Journal of Public Economics"
+title: "Financial Repercussions of SNAP Work Requirements | Journal of Public Economics"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/Dodini_Larrimore_Tranfaglia_SNAP_work_4_2023.pdf"
