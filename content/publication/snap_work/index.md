@@ -15,7 +15,7 @@ image:
   preview_only: false
 #links:
 #- name: Paper
-# url: "https://www.sciencedirect.com/science/article/pii/S0047272723002165"
+ url: "https://www.sciencedirect.com/science/article/pii/S0047272723002165"
 
 #projects: []
 publication: 'Journal of Public Economics'
