@@ -17,8 +17,7 @@ projects: []
 #links:
 #- name: Paper
 # url: https://docs.iza.org/dp16697.pdf
-# url_cesifo: https://www.cesifo.org/en/publications/2023/working-paper/how-do-firms-respond-unions
-publication: ''
+publication: 'Working Paper'
 #publication_short: "firmresponse"
 #publication_types:
 #- "2"
@@ -31,7 +30,6 @@ title: "How Do Firms Respond to Unions?"
 #url_code: ""
 #url_dataset: ""
 url_iza: "https://docs.iza.org/dp16697.pdf"
-url_cesifo: "https://www.cesifo.org/en/publications/2023/working-paper/how-do-firms-respond-unions"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
