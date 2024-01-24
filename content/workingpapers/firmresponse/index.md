@@ -17,7 +17,7 @@ projects: []
 #links:
 #- name: Paper
 # url: https://docs.iza.org/dp16697.pdf
-# url: https://www.cesifo.org/en/publications/2023/working-paper/how-do-firms-respond-unions
+# url_cesifo: https://www.cesifo.org/en/publications/2023/working-paper/how-do-firms-respond-unions
 publication: ''
 #publication_short: "firmresponse"
 #publication_types:
@@ -30,8 +30,8 @@ summary: Firms respond to unions by raising prices, reallocating inputs from sma
 title: "How Do Firms Respond to Unions?"
 #url_code: ""
 #url_dataset: ""
-url_pdf: "https://docs.iza.org/dp16697.pdf"
-url_pdf: "https://www.cesifo.org/en/publications/2023/working-paper/how-do-firms-respond-unions"
+url_iza: "https://docs.iza.org/dp16697.pdf"
+url_cesifo: "https://www.cesifo.org/en/publications/2023/working-paper/how-do-firms-respond-unions"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
