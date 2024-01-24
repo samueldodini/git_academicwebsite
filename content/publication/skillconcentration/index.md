@@ -20,7 +20,7 @@ image:
 #url: "https://doi.org/10.1093/ej/ueae002"
 
 #projects: []
-publication: 'Working Paper'
+publication: 'The Economic Journal'
 #publication_short: "skillconcentration"
 #publication_types:
 #- "2"
