@@ -29,7 +29,7 @@ summary: Firms respond to unions by raising prices, reallocating inputs from sma
 title: "How Do Firms Respond to Unions?"
 #url_code: ""
 #url_dataset: ""
-url_iza: "https://docs.iza.org/dp16697.pdf"
+url_pdf: "https://docs.iza.org/dp16697.pdf"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
