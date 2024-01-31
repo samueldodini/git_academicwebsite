@@ -28,7 +28,7 @@ publishDate: "2024-01-29T00:00:00Z"
 summary: Union membership raises the wages of younger workers but protects older workers from layoffs better. The marginal union member makes use of public transfer systems at far lower rates, saving the government money.
 #tags:
 #- Source Themes
-title: "The Career Effects of Union Membership"
+title: "The Career Effects of Union Membership | R&R at American Economic Review"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/Dodini_Salvanes_Willen_Zhu_union_career_8_2023.pdf"
