@@ -7,7 +7,7 @@ authors:
 - Alexander Willén
 - Li (Julia) Zhu
 
-date: "2023-08-29T00:00:00Z"
+date: "2024-01-29T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -19,11 +19,11 @@ projects: []
 #- name: Paper
 # url: https://samueldodini.com/files/Dodini_Salvanes_Willen_Zhu_union_career_8_2023.pdf
 
-publication: ''
+publication: "R&R at American Economic Review"
 #publication_short: "union_lifecycle"
 #publication_types:
 #- "2"
-publishDate: "2023-05-29T00:00:00Z"
+publishDate: "2024-01-29T00:00:00Z"
 #slides: example
 summary: Union membership raises the wages of younger workers but protects older workers from layoffs better. The marginal union member makes use of public transfer systems at far lower rates, saving the government money.
 #tags:
