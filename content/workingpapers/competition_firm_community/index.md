@@ -22,7 +22,7 @@ publication: "Reject and Resubmit at American Economic Review"
 #publication_short: "competition_firm_community"
 #publication_types:
 #- "2"
-publishDate: "2022-12-31T00:00:00Z"
+publishDate: "2024-1-15T00:00:00Z"
 #slides: example
 summary: Labor market competition leads to higher real worker earnings, lower firm productivity, firm closer, greater inequality, population loss, and changes in political sentiments in communities affected by it.
 #tags:
