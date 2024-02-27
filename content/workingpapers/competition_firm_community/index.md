@@ -18,7 +18,7 @@ projects: []
 #- name: Paper
 # url: http://samueldodini.com/files/Dodini_Loken_Willen_competition_firm_communities_4_2023.pdf
 
-publication: ''
+publication: "Reject and Resubmit at American Economic Review"
 #publication_short: "competition_firm_community"
 #publication_types:
 #- "2"
