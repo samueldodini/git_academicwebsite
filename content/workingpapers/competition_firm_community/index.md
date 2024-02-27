@@ -27,7 +27,7 @@ publishDate: "2022-12-31T00:00:00Z"
 summary: Labor market competition leads to higher real worker earnings, lower firm productivity, firm closer, greater inequality, population loss, and changes in political sentiments in communities affected by it.
 #tags:
 #- Source Themes
-title: "Labor Market Competition and Its Effect on Firms and Local Communities"
+title: "Labor Market Competition and Its Effect on Firms and Local Communitie | Reject & Resubmit at American Economic Review"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "http://samueldodini.com/files/Dodini_Loken_Willen_competition_firm_communities_4_2023.pdf"
