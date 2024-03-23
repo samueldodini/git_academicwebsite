@@ -26,7 +26,7 @@ publishDate: "2024-01-01T00:00:00Z"
 summary: Firms respond to unions by raising prices, reallocating inputs from smaller to larger firms, and shifting product market power.
 #tags:
 #- Source Themes
-title: "How Do Firms Respond to Unions? | Reject & Resubmit at QJE"
+title: "How Do Firms Respond to Unions? | Reject & Resubmit at Quarterly Journal of Economics"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://docs.iza.org/dp16697.pdf"
