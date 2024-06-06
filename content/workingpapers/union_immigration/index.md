@@ -16,7 +16,7 @@ image:
 projects: []
 #links:
 #- name: Paper
-# url: "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3109494/DP%2024.pdf?sequence=1"
+# url: "https://samueldodini.com/files/Dodini_Willen_Zhu_Immigrants_Unions.pdf"
 
 publication: ''
 #publication_short: "union_immigration"
@@ -30,7 +30,7 @@ summary: Union membership disproportionately benefits natives, which increases g
 title: "The Role of Labor Unions in Immigrant Integration"
 #url_code: ""
 #url_dataset: ""
-url_pdf: "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/3109494/DP%2024.pdf?sequence=1"
+url_pdf: "https://samueldodini.com/files/Dodini_Willen_Zhu_Immigrants_Unions.pdf"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
