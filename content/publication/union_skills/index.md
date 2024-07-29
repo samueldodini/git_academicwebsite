@@ -12,7 +12,7 @@ image:
   preview_only: false
 #links:
 #- name: Paper
-# url: https://samueldodini.com/files/DLW_union_skills.pdf
+# url: https://doi.org/10.1177/00197939241264735
 
 #projects: []
 publication: 'Industrial and Labor Relations Review (ILRR)'
@@ -27,7 +27,7 @@ summary: "Private sector unionization in the US has shifted to cover more non-ro
 title: "The Changing Skill Content of Private Sector Union Coverage | ILR Review"
 #url_code: ""
 #url_dataset: ""
-url_pdf:  https://samueldodini.com/files/DLW_union_skills.pdf
+url_pdf:  https://doi.org/10.1177/00197939241264735
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
