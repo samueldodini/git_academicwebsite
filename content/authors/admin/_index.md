@@ -13,7 +13,7 @@ education:
   - course: BA in Economics
     institution: Brigham Young University
     year: 2013
-email: "samuel.dodini@nhh.no"
+email: "samuel.dodini@dal.frb.org"
 interests:
 - Labor economics
 - Public economics
@@ -22,13 +22,13 @@ interests:
 - Education
 name: Samuel Dodini
 organizations:
-- name: FAIR Centre, Department of Economics, (NHH) Norwegian School of Economics; CESifo; IZA
-  url: "https://www.nhh.no/en/employees/faculty/samuel-nathan-dodini/"
-role: Postdoctoral Fellow in Labor Economics
+- name: Federal Reserve Bank of Dallas; CESifo; IZA
+  url: ""
+role: Senior Research Economist
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:samuel.dodini@nhh.no # '#contact'
+  link: mailto:samuel.dodini@dal.frb.org # '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/microsamonomics
@@ -44,7 +44,6 @@ user_groups:
 - Visitors
 ---
 
-I am an applied labor and public economist with broad interests. My current work in labor examines the effects of occupational licensing and monopsony power. I also have various work on the interactions between labor unions and firms, workers, and the public transfer system as well as work on how firms invest in their workers' human capital. I also have work incorporating insights from behavioral economics into labor supply decisions and firm-worker interactions. My other work in public economics focuses on the effects of SNAP work requirements on household finance and the effects of place-based development and housing policies. Before starting at NHH, I received my PhD from Cornell University. 
+I am an applied labor and public economist with broad interests. My current work in labor examines the effects of unions on workers, inequality, and firms. I also have work examining the effects of labor market competition (or lack thereof) on workers and communities as well as discrimination in the labor market. I have work in progress on how firms invest in their workers' human capital and drive the local accumulation of talent. I also have work incorporating insights from behavioral economics into labor supply decisions and firm-worker interactions. My other work in public economics focuses on the effects of SNAP work requirements on household finance and the effects of place-based development and housing policies. Before starting at the Dallas Fed, I was a postdoctoral fellow at the Norwegian School of Economics (NHH). I received my PhD from Cornell University. 
 
-In the Fall of 2024, I will join the Federal Reserve Bank of Dallas as a Senior Research Economist in the Micro/Regional group.
 
