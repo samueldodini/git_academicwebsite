@@ -23,7 +23,7 @@ publication: "Working Paper"
 #- "2"
 publishDate: "2024-01-10T00:00:00Z"
 #slides: example
-summary: Labor market power allows firms to discriminate in hiring and wages. Discrimination is likely based on erroneous beliefs.
+summary: Labor market power allows firms to discriminate in hiring and wages. Discrimination is likely based on erroneous beliefs rather than preferences.
 #tags:
 #- Source Themes
 title: "The Power to Discriminate"
