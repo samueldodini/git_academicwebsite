@@ -26,7 +26,7 @@ publication: 'The Economic Journal'
 #- "2"
 publishDate: "2023-11-12T00:00:00Z"
 #slides: example
-summary: Forthcoming at The Economic Journal. Labor market concentration within task clusters is lower than other measures. Higher concentration leads to lower wages, with heterogeneity in effects. 
+summary: Labor market concentration within task clusters is lower than other measures. Higher concentration leads to lower wages, with heterogeneity in effects. 
 #tags:
 #- Source Themes
 title: "Monopsony, Job Tasks, and Labor Market Concentration | The Economic Journal"
