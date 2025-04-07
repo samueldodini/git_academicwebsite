@@ -27,7 +27,7 @@ publishDate: "2025-04-05T00:00:00Z"
 summary: Outflows of physicians from Sweden to Norway increased elderly mortality in Sweden.
 #tags:
 #- Source Themes
-title: "The Power to Discriminate"
+title: "The Fatal Consequences of Brain Drain"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "http://samueldodini.com/files/Dodini_Loken_Lundborg_Willen_Brain_Drain_4_2025.pdf"
