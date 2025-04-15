@@ -27,7 +27,7 @@ publishDate: "2023-12-01T00:00:00Z"
 summary: Union membership disproportionately benefits natives, which increases gaps between immigrants and natives.
 #tags:
 #- Source Themes
-title: "The Role of Labor Unions in Immigrant Integration"
+title: "Union Membership and Native-Immigrant Labor Market Gaps | R&R at The Economic Journal"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/Dodini_Willen_Zhu_Immigrants_Unions.pdf"
