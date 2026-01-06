@@ -18,7 +18,7 @@ projects: []
 #- name: Paper
 # url: http://samueldodini.com/files/Dodini_Loken_Lundborg_Willen_Brain_Drain_4_2025.pdf
 
-publication: "Working Paper"
+publication: "Revise and Resubmit at Review of Economic Studies"
 #publication_short: "brain_drain"
 #publication_types:
 #- "2"
@@ -27,7 +27,7 @@ publishDate: "2025-04-05T00:00:00Z"
 summary: Outflows of physicians from Sweden to Norway increased elderly mortality in Sweden.
 #tags:
 #- Source Themes
-title: "The Fatal Consequences of Brain Drain"
+title: "The Fatal Consequences of Brain Drain | R&R at Review of Economic Studies"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "http://samueldodini.com/files/Dodini_Loken_Lundborg_Willen_Brain_Drain_4_2025.pdf"
