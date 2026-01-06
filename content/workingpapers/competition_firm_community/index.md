@@ -18,7 +18,7 @@ projects: []
 #- name: Paper
 # url: http://samueldodini.com/files/Dodini_Loken_Willen_competition_firm_communities_10_2024.pdf
 
-publication: "Reject and Resubmit at American Economic Review"
+publication: "Working Paper"
 #publication_short: "competition_firm_community"
 #publication_types:
 #- "2"
@@ -27,7 +27,7 @@ publishDate: "2024-01-10T00:00:00Z"
 summary: Labor market competition leads to higher real worker earnings, lower firm productivity, firm closer, greater inequality, population loss, and reductions in tax revenue.
 #tags:
 #- Source Themes
-title: "Labor Market Competition and Its Effect on Firms and Local Communities | Reject & Resubmit at American Economic Review"
+title: "Labor Market Competition and Its Effect on Firms and Local Communities"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "http://samueldodini.com/files/Dodini_Loken_Willen_competition_firm_communities_10_2024.pdf"
