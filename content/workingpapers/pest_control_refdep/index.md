@@ -25,7 +25,7 @@ publishDate: "2023-06-01T00:00:00Z"
 summary: Workers exhibit reference-dependent labor supply around expectations. Their expectations are set by the firm via a bonus scheme.
 #tags:
 #- Source Themes
-title: "Making Reference-Dependent Preferences: Evidence from Door-to-Door Sales"
+title: "Making Reference-Dependent Preferences: Evidence from Door-to-Door Sales | R&R at Labour Economics"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/Dodini_refdep_sales_10_2024.pdf"
