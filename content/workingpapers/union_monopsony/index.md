@@ -19,7 +19,7 @@ projects: []
 #- name: Paper
 # url: "https://samueldodini.com/files/Dodini_Salvanes_Willen_unions_monopsony_8_2024.pdf"
 
-publication: "Resubmission in preparation at Review of Economic Studies"
+publication: "R&R Round 2, Review of Economic Studies"
 #publication_short: "union_monopsony"
 #publication_types:
 #- "2"
@@ -28,7 +28,7 @@ publishDate: "2021-12-12T00:00:00Z"
 summary: Union density mitigates the negative earnings effects of employer market concentration. Unionization benefits white collar and above-median workers at the firm most in more competitive markets.
 #tags:
 #- Source Themes
-title: "The Dynamics of Power in Labor Markets: Monopolistic Unions versus Monopsonistic Employers | Resubmission in preparation at Review of Economic Studies"
+title: "The Dynamics of Power in Labor Markets: Monopolistic Unions versus Monopsonistic Employers | Resubmitted at Review of Economic Studies"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/Dodini_Salvanes_Willen_unions_monopsony_8_2024.pdf"
