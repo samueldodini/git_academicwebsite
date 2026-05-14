@@ -1,19 +1,5 @@
 ---
-abstract: "Sociological scholarship has been central to advancing our understanding of durable
-neighborhood disadvantage, but less attention has been devoted to analyzing efforts to alleviate
-such conditions. In this paper, we assess the growth and unequal geography of federal place-
-based policies designed to combat concentrated neighborhood disadvantage. We develop a novel
-longitudinal dataset of federal place-based policies from 1990 to 2015 and find evidence of a
-substantial increase in funding over that period. Federal funding for disadvantaged places now
-rivals or outpaces the funding allocated to many federal programs for disadvantaged people.
-Federal place-based policies are national in their reach, but they are also distributed unequally
-across neighborhoods. We draw on sociological theory to connect the uneven geographic reach
-of federal place-based policies to the economic, institutional, and socio-political organization of
-local communities. We find that federal place-based policy was implemented with greater
-intensity in counties with more disadvantaged populations, higher levels of economic and racial
-segregation, a greater density of nonprofit organizations, and tighter housing markets. We close
-by discussing the implications of the place-based turn in federal policymaking for spatial
-inequality and social policy."
+abstract: "This paper assesses the growth and spatial distribution of federal place-based policies in the United States. Using a novel dataset of federal place-based policies from 1990 to 2019, we show how the dual forces of fiscalization and financialization have fueled a substantial increase in federal place-based funding to communities via competitive tax credit and grant programs. We consider whether federal place-based funding has been distributed in a compensatory way by prioritizing more disadvantaged communities or whether it has compounded neighborhood inequalities by prioritizing more advantaged communities. We find that federal place-based funding has gone overwhelmingly to communities experiencing economic disadvantage, as intended, but at the same time such policies have compounded other forms of spatial inequality via disproportionate investment in areas with more nonprofit organizations and stronger housing markets. Economically disadvantaged neighborhoods that are spatially embedded within counties with strong housing markets and robust nonprofit sectors received the most federal place-based funding. These organizational and housing market inequities are strongest for tax credit and competitive grant programs, precisely the forms of funding that have grown most over this period. The funding trends reveal a pattern of cumulative advantage, as poor communities with initial funding advantages in the 1990s went on to receive the vast majority of federal place-based funding in the subsequent decades, leading to growing divergence among high-poverty communities in the distribution of federal place-based resources over time."
 
 authors:
 - Laura Tach
@@ -28,20 +14,20 @@ image:
   focal_point: ""
   preview_only: false
 #links:
-#- name: Paper on SSRN
-# url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2727204
+#- name: Social Forces
+# url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12674005/
   
 projects: []
-publication: 'R&R at American Journal of Sociology'
+publication: 'Social Forces'
 #publication_short: "pb1"
-#publication_types: Working Paper
+#publication_types: Social Forces
 #- "2"
 publishDate: "2020-02-21T00:00:00Z"
 #slides: example
 summary: The federal government spent over $360 billion from 1990-2015 on place-based policies. Areas with more disadvantage, more segregation, and more non-profit capacity received more of these funds.
 #tags:
 #- Source Themes
-title: "The Place-Based Turn in Federal Policy, 1990-2015 | R&R at Social Forces"
+title: "Federal place-based policy and the geography of inequality in the United States, 1990–2019"
 #url_code: ""
 #url_dataset: ""
 #url_pdf: ""
