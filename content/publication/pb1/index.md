@@ -6,14 +6,14 @@ authors:
 - Emily Parker
 - Alexandra Cooperstock
 - admin
-date: "2019-09-21T00:00:00Z"
+date: "2025-09-21T00:00:00Z"
 doi: ""
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
-#links:
+#links: 
 #- name: Social Forces
 # url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12674005/
   
@@ -22,7 +22,7 @@ publication: 'Social Forces'
 #publication_short: "pb1"
 #publication_types: Social Forces
 #- "2"
-publishDate: "2020-02-21T00:00:00Z"
+publishDate: "2025-09-21T00:00:00Z"
 #slides: example
 summary: The federal government spent over $360 billion from 1990-2019 on place-based policies. Areas with more disadvantage, more segregation, and more non-profit capacity received more of these funds.
 #tags:
@@ -30,7 +30,7 @@ summary: The federal government spent over $360 billion from 1990-2019 on place-
 title: "Federal place-based policy and the geography of inequality in the United States, 1990–2019"
 #url_code: ""
 #url_dataset: ""
-#url_pdf: ""
+url_pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12674005/"
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
