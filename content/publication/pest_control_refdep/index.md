@@ -20,7 +20,7 @@ publication: 'Labour Economics'
 #publication_short: "pest_control_refdep"
 #publication_types:
 #- "2"
-publishDate: "2027-07-01T00:00:00Z"
+publishDate: "2026-07-01T00:00:00Z"
 #slides: example
 summary: Workers exhibit reference-dependent labor supply around expectations. Their expectations are influenced by the firm via a bonus scheme.
 #tags:
