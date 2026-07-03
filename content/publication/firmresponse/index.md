@@ -16,7 +16,7 @@ image:
 projects: []
 #links:
 #- name: Paper
-url: "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjag034/8723324"
+#url: "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjag034/8723324"
 publication: 'Quarterly Journal of Economics'
 #publication_short: "firmresponse"
 #publication_types:
