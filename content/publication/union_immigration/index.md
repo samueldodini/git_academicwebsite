@@ -6,7 +6,7 @@ authors:
 - Alexander Willén
 - Julia Zhu
 
-date: "2023-12-01T00:00:00Z"
+date: "2026-10-26T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -22,12 +22,12 @@ publication: ''
 #publication_short: "union_immigration"
 #publication_types:
 #- "2"
-publishDate: "2023-12-01T00:00:00Z"
+publishDate: "2026-10-26T00:00:00Z"
 #slides: example
 summary: Union membership disproportionately benefits natives, which increases gaps between immigrants and natives.
 #tags:
 #- Source Themes
-title: "Union Membership and Native-Immigrant Labor Market Gaps | R&R at The Economic Journal"
+title: "Union Membership and Native-Immigrant Labor Market Gaps | The Economic Journal"
 #url_code: ""
 #url_dataset: ""
 url_pdf: "https://samueldodini.com/files/Dodini_Willen_Zhu_Immigrants_Unions.pdf"
