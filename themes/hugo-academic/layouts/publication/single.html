@@ -11,6 +11,17 @@
     <p class="pub-abstract" itemprop="text">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
 
+    {{ with .Params.explainer }}
+    <h3 id="video-explainer">Video explainer</h3>
+    <video controls playsinline preload="none" aria-labelledby="video-explainer"
+           width="1920" height="1080" style="display:block;width:100%;height:auto"
+           poster="{{ ($.Resources.GetMatch .poster).RelPermalink }}">
+      <source src="{{ ($.Resources.GetMatch .video).RelPermalink }}" type="video/mp4">
+      <track kind="captions" src="{{ ($.Resources.GetMatch .captions).RelPermalink }}" srclang="en" label="English">
+      <a href="{{ ($.Resources.GetMatch .video).RelPermalink }}">Download the video explainer</a>
+    </video>
+    {{ end }}
+
     {{ if (.Params.publication_types) and (ne (index .Params.publication_types 0) "0") }}
     <div class="row">
       <div class="col-md-1"></div>
