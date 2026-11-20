@@ -7,6 +7,10 @@ authors:
 date: "2026-07-01T00:00:00Z"
 doi: ""
 featured: false
+explainer:
+  video: one-more-door.mp4
+  captions: one-more-door.en.vtt
+  poster: one-more-door-poster.jpg
 image:
   caption: ''
   focal_point: ""
