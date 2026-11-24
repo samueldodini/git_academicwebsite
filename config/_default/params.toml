@@ -148,6 +148,11 @@ sharing = true
  # publication_view = 2
   #talk_view = 2
 
+# Coauthor homepages keyed by their Hugo author slugs.
+[author_links]
+  anna-stansbury = "https://www.annastansbury.com/"
+  alexander-willen = "https://www.alexanderwillen.com/"
+
 # Search.
 [search]
   # Search provider:

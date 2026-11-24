@@ -1,14 +1,20 @@
 {{/* Display author list. */}}
 
 {{ $taxonomy := "authors" }}
+{{ $author_links := .Params.author_links | default (dict) }}
+{{ $site_author_links := site.Params.author_links | default (dict) }}
 {{ with .Param $taxonomy }}
   {{ range $index, $value := . }}
-    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
+    {{- $author_slug := $value | urlize -}}
+    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $author_slug) -}}
     {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+    {{- $author_link := or (index $author_links $author_slug) (index $site_author_links $author_slug) -}}
     {{- if gt $index 0 }}, {{ end -}}
     <span itemprop="author name" itemtype="http://schema.org/Person">
-      {{- with $profile_page -}}
-        <a href="{{.RelPermalink}}">{{$name}}</a>
+      {{- if $author_link -}}
+        <a href="{{$author_link}}">{{$name}}</a>
+      {{- else if $profile_page -}}
+        <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
       {{- else -}}
         {{$name}}
       {{- end -}}
